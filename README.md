@@ -1,13 +1,9 @@
-- [Description](#description)
-    - [Contents](#contents)
-        - [VmwareChecks.psm1](#vmwarecheckspsm1)
-
 # Description
 
-Assorted Scripts for VMWare
+Assorted VMware PowerShell / PowerCLI scripts for automating tasks and checks in vSphere.
 
 ## Contents
 
 ### VmwareChecks.psm1
 
-Basic module containing various functions to automate daily manual VMWare checks.
+Module containing various functions to automate daily manual VMWare checks.
